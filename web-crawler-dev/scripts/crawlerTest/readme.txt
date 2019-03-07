@@ -45,4 +45,4 @@ It should create a data.txt file at which point you are ready to program using b
 
 Also if using VSC type pip install pylint in a new terminal. Then open VSC, go to extensions and download the python extension for VSC and you should be ready to go once installed and VSC has refreshed with the new extension.
 
-Slack Mike if you have any problems!
+Slack Dao if you have any problems!
