@@ -1,0 +1,7 @@
+ipython[notebook]
+pygments
+beautifulsoup4
+urllib3
+requests
+facebook-sdk
+google-api-python-client

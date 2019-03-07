@@ -1,0 +1,8 @@
+Starting OFA Crawler; 2019-03-07 09:19:52.763927
+
+Connecting to https://outdoorsforall.org/events-news/calendar/; success
+
+Found event https://localendar.com/event?DAM=PublishedEvent&m=333899&event_id=1429&calendar_id=333899&more_info=N&export_date=Feb%2024,%202019&category=8
+Error gathering URL data, Unable to locate credentials
+
+Closing OFA Crawler; 2019-03-07 09:20:09.712389
