@@ -21,7 +21,7 @@ To briefly explain the structure:
 Assuming git is installed:
 
 ```bash
-$ git https://github.com/ActoKids/web-crawler.git
+$ git https://github.com/AD440-practicum/web-crawler.git
 ```
 
 [travis-image]: https://travis-ci.org/actokids/actokids.png?branch=master
