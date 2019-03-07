@@ -15,9 +15,7 @@ import json
 API_VERSION = '3.1'
 
 #User facebook access token
-ACCESS_TOKEN = 'EAAHtVhajj5kBAHG6cXwVCJpoZA0q4dpsZAT59XPBJ4S93Ad6JZCrqqZBNnW2\
-                ZBuXSgbUEDZALddlbyfaMY91szP3X2EwF3jMK2MFBguDU2ANowmEu8PeOgWgyt\
-                dMy4zhlvFERZA0RshPFEWuUFM2ZCvQgCmCWMP3zKRWHZAcBAY9oGIjW0PXtNKhW'
+ACCESS_TOKEN = 'YOUR_TOKEN_HERE'
 
 #All current fields from a facebook event right now. Facebook might add more fields 
 #or remove these fields in the future. Always check https://developers.facebook.com/docs/graph-api/reference/event/
